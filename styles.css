@@ -1,0 +1,30 @@
+body{
+  background-color: #481380;
+  background-image: url("images/D.jpg");
+}
+h1{
+  font-size: 500%;
+font-style: italic;
+}
+h2{
+  font-size: 300%;
+font-style: italic;
+}
+ol{
+  font-size: 200%;
+}
+H3{
+  font-size: 300%;
+  font-style: italic;
+}
+h4{
+  font-size: 300%;
+  font-style: italic;
+}
+ul{
+  font-size: 200%
+}
+hr {
+width: 30%;
+color: #black:
+}
